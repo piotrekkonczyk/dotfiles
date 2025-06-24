@@ -1,0 +1,5 @@
+[user]
+	name = piotrekkonczyk
+	email = konczyk.piotrek@gmail.com
+[alias]
+	ac = !git add -A && git commit -m
