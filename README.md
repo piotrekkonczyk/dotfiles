@@ -1,6 +1,6 @@
 # Dotfiles
 
-All the comments and formatting were performed by AI, so the config files look clean.
+All comments and formatting were done by AI, so the config files are clean.
 
 ## Contents
 
